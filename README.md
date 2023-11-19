@@ -14,4 +14,4 @@ I'm planing on:
 - A button to download the code (for fast integration and testing)
 
 
-Feel free to contact me at federicosaban10@gmail.com[federicosaban10@gmail.com]!
+Feel free to contact me at federicosaban10@gmail.com!
