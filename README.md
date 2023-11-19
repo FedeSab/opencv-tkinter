@@ -5,9 +5,9 @@ Hi! This is a little side proyect that I made to try different opencv functions 
 The general idea is that some times is hard to visually see the transformations that opencv is doing, or how they affect each other. So, by adding a simple GUI, it's easier to play with the parameters, make some changes and discover useful transformations for your own project
 
 ## Usage
-
+```
 python3 opencvgui.py
-
+```
 ## TODO
 
 I'm planing on: 
